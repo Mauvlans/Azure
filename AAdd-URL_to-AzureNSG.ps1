@@ -40,7 +40,7 @@ if (Get-Module -Name AzureRM -ListAvailable) {
      )
  
  #Logging into Azure and Setting your subscription
- #Connect-AzAccount -SubscriptionId $SubscriptionId
+ Connect-AzAccount -SubscriptionId $SubscriptionId
  
  #Function To update NSG
  function AddOrUpdateURLRecord {
