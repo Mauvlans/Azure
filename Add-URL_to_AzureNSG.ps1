@@ -1,6 +1,6 @@
 # ***************************************************************************
 #
-# Purpose: Add URL to NSG usling IP lookup
+# Purpose: Add URL to NSG using IP lookup
 #
 # ------------- DISCLAIMER -------------------------------------------------
 # This script code is provided as is with no guarantee or waranty concerning
